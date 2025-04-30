@@ -1,2 +1,2 @@
 App Capture
-❮img src="capture.png"❯
+!()[img src="capture.png"]
