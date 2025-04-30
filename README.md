@@ -1,2 +1,2 @@
 App Capture
-!()[img src="capture.png"]
+!()[capture.png]
