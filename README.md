@@ -1,2 +1,2 @@
 App Capture
-❮img src="capture.png" width="100" ❯
+❮img src="capture.png"❯
